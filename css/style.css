@@ -30,6 +30,8 @@ justify-content: space-between;
 
 }
 
+/* Nice use of flex. Well done */ 
+
 .NavItem{
 align-items: center;
 margin-left: 20px;
@@ -52,6 +54,8 @@ border-bottom: solid 3px #C20808;
 .right{
   justify-content: flex-start;
 }
+
+/* Well used flex */
 
 .BigParagraph{
 max-width: 500px;
